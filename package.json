@@ -1,4 +1,8 @@
 {
-    "name": "nuxt-module-template",
-    "version": "0.0.0"
+    "name": "@nuxt/vue-cli-plugin-module-template",
+    "version": "0.0.0",
+    "description": "Nuxt module template",
+    "repository": {
+        "url": "."
+    }
 }
